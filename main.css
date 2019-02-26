@@ -1,0 +1,15 @@
+h1 {
+  font-size: 45px;
+}
+
+p {
+  font-size: 30px;
+}
+
+.cta {
+  display: inline-block;
+  padding: 30px;
+  font-weight: 600;
+  background-color: #eee;
+  font-size: 30px;
+}
